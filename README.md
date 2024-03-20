@@ -13,3 +13,6 @@ Topological Charge and Fourier Optics Calculation of Vortex Beams Carrying Orbit
 OAM_Fourier_Optics.m:  Fourier optics method for modeling propagation of a vortex beam/wave. Zero padding is employed to avoid aliasing and minimize edge effects.
 
 OAM_TC.m: Spectral method is used to extract the topological charge of a vortex beam/wave.
+
+## Collaborators
+Prof. [Sheng Sun](https://faculty.uestc.edu.cn/sunsheng/zh_CN/index.htm) at University of Electronic Science and Technology of China
